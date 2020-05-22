@@ -1,0 +1,482 @@
+********************************************************************************
+Article 0 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag roses. Les den rørende historien om Karin (51) fra Bergen.
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 1 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag roses - SLIK vil det endre Norge.
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 2 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag roses. Les den rørende historien om Karin (51) fra Bergen.
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 3 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag roses - SLIK vil det endre Norge.
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 4 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag hjelper Karin (51)
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 5 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag roses
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 6 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag hjelper Karin (51)
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 7 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag roses
+
+Folk er positive fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 8 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag roses. Les den rørende historien om nederlandske Karin (51).
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 9 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag roses - SLIK vil det endre Europa.
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 10 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag roses. Les den rørende historien om nederlandske Karin (51).
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 11 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag roses - SLIK vil det endre Europa.
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 12 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag hjelper Karin (51)
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 13 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag roses
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 14 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag hjelper Karin (51)
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette øker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 15 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag roses
+
+Folk er positive fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 16 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+SLIK får nytt flyktningeforslag konsekvenser for mange nordmenn. Les den rørende historien om Karin (51) fra Bergen.
+
+En rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 17 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag - SLIK vil det endre Norge.
+
+En rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 18 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+SLIK får nytt flyktningeforslag konsekvenser for mange nordmenn. Les den rørende historien om Karin (51) fra Bergen.
+
+En rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 19 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag - SLIK vil det endre Norge.
+
+En rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 20 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag får konsekvenser for Karin (51)
+
+En rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 21 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Foreslår endring i flyktningepolitikken
+
+En rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 22 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag får konsekvenser for Karin (51)
+
+En rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 23 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Foreslår endring i flyktningepolitikken
+
+En rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 24 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+SLIK får nytt flyktningeforslag konsekvenser for mange europeere - blant dem Karin (51) fra Bergen.
+
+En rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 25 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag - SLIK vil det endre Europa.
+
+En rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 26 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+SLIK får nytt flyktningeforslag konsekvenser for mange europeere - blant dem Karin (51) fra Bergen.
+
+En rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 27 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag - SLIK vil det endre Europa.
+
+En rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 28 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag får konsekvenser for Karin (51)
+
+En rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 29 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Foreslår endring i flyktningepolitikken
+
+En rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 30 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag får konsekvenser for Karin (51)
+
+En rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette påvirker mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 31 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Foreslår endring i flyktningepolitikken
+
+En rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 32 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag møter motstand. Les historien om Bergenseren Karins (51) kamp mot politikerne.
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 33 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand - SLIK vil det endre Norge.
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 34 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag møter motstand. Les historien om Bergenseren Karins (51) kamp mot politikerne.
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 35 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand - SLIK vil det endre Norge.
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 36 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag går hardt utover Karin (51)
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 37 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 38 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag går hardt utover Karin (51)
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 39 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand
+
+Folk er negative fordi en rekke stortingspolitikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 40 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag møter motstand. Les historien om nederlandske Karins (51) kamp mot politikerne.
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 41 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand - SLIK vil det endre Europa.
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 42 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag møter motstand. Les historien om nederlandske Karins (51) kamp mot politikerne.
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 43 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand - SLIK vil det endre Europa.
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 44 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': True}
+
+
+Nytt flyktningeforslag går hardt utover Karin (51)
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 45 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'easy', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye lettere for flyktninger å få adgang til landet. 
+
+
+
+********************************************************************************
+Article 46 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': True}
+
+
+Nytt flyktningeforslag går hardt utover Karin (51)
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet.  –Dette ødelegger mine jobbmuligheter, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 47 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'difficult', 'personalization': False}
+
+
+Nytt flyktningeforslag møter motstand
+
+Folk er negative fordi en rekke nederlandske politikere vil gjøre det mye vanskeligere for flyktninger å få adgang til landet. 
+
+
+
+The following combinations could theoretically exist, but were not produced based on your input file:
+

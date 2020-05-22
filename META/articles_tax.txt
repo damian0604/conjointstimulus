@@ -1,0 +1,482 @@
+********************************************************************************
+Article 0 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag roses. Les den rørende historien om Karin (51).
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 1 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag roses - SLIK vil det endre Norge.
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 2 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag roses. Les den rørende historien om Karin (51).
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 3 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag roses - SLIK vil det endre Norge.
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 4 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag hjelper Karin (51)
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 5 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag roses
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 6 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag hjelper Karin (51)
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 7 with following config: {'nv1': 'positive', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag roses
+
+Folk er glade fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 8 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag roses. Les den rørende historien om nederlandske Karin (51).
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 9 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag roses - SLIK vil det endre Nederland.
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 10 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag roses. Les den rørende historien om nederlandske Karin (51).
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 11 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag roses - SLIK vil det endre Nederland.
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 12 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag hjelper Karin (51)
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 13 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag roses
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 14 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag hjelper Karin (51)
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. –Dette vil være svært positivt for min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 15 with following config: {'nv1': 'positive', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag roses
+
+Folk er glade fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 16 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+SLIK får nytt skatteforslag konsekvenser for mange nordmenn. Les den rørende historien om Karin (51).
+
+En rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.   –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 17 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag - SLIK vil det endre Norge.
+
+En rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 18 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+SLIK får nytt skatteforslag konsekvenser for mange nordmenn. Les den rørende historien om Karin (51).
+
+En rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.   –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 19 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag - SLIK vil det endre Norge.
+
+En rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 20 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag får konsekvenser for Karin (51)
+
+En rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.   –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 21 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag
+
+En rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 22 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag får konsekvenser for Karin (51)
+
+En rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.   –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 23 with following config: {'nv1': 'neutral', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag
+
+En rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 24 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+SLIK får nytt skatteforslag konsekvenser for mange nederlendere - blant dem Karin (51).
+
+En rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland.  –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 25 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag  - SLIK vil det endre Nederland.
+
+En rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 26 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+SLIK får nytt skatteforslag konsekvenser for mange nederlendere - blant dem Karin (51).
+
+En rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland.  –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 27 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag  - SLIK vil det endre Nederland.
+
+En rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 28 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag får konsekvenser for Karin (51)
+
+En rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland.  –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 29 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag
+
+En rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 30 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag får konsekvenser for Karin (51)
+
+En rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland.  –Dette påvirker min familie, forteller Karin (51).
+
+
+
+********************************************************************************
+Article 31 with following config: {'nv1': 'neutral', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag
+
+En rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 32 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag møter motstand. Les historien om Karins (51) kamp mot politikerne.
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 33 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand - SLIK vil det endre Norge.
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 34 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag møter motstand. Les historien om Karins (51) kamp mot politikerne.
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 35 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand - SLIK vil det endre Norge.
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 36 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag går hardt utover Karin (51)
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 37 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 38 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag går hardt utover Karin (51)
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 39 with following config: {'nv1': 'negative', 'proximity': 'Norway', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand
+
+Folk er sinte fordi en rekke stortingspolitikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Norge.  
+
+
+
+********************************************************************************
+Article 40 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag møter motstand. Les historien om nederlandske Karins (51) kamp mot politikerne.
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 41 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand - SLIK vil det endre Nederland.
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 42 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag møter motstand. Les historien om nederlandske Karins (51) kamp mot politikerne.
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 43 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': True, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand - SLIK vil det endre Nederland.
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 44 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': True}
+
+
+Nytt skatteforslag går hardt utover Karin (51)
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 45 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'moretax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å øke inntektsskatten betydelig. Forskere mener dette kan føre til reduserte inntektsforskjeller i Nederland. 
+
+
+
+********************************************************************************
+Article 46 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': True}
+
+
+Nytt skatteforslag går hardt utover Karin (51)
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. –Dette vil ødelegge for min familie, forteller Karin (51). 
+
+
+
+********************************************************************************
+Article 47 with following config: {'nv1': 'negative', 'proximity': 'Netherlands', 'clickbait': False, 'direction': 'lesstax', 'personalization': False}
+
+
+Nytt skatteforslag møter motstand
+
+Folk er sinte fordi en rekke nederlandske politikere ønsker å senke inntektsskatten betydelig. Forskere mener dette kan føre til økte inntektsforskjeller i Nederland. 
+
+
+
+The following combinations could theoretically exist, but were not produced based on your input file:
+
